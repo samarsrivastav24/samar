@@ -6,9 +6,10 @@
 ---
 
 ### 🌐 Connect with me  
-[![LinkedIn](https://www.linkedin.com/in/samar-srivastav-59)  
-[![GitHub](https://github.com/samar)  
-📸 Instagram: [@samar_srivastav__](https://instagram.com/samar_srivastav__)
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samar-srivastav-59)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github&logoColor=white)](https://github.com/samar)
+[![Instagram](https://img.shields.io/badge/Instagram-@samar_srivastav__-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/samar_srivastav__)
 
 
 ---
